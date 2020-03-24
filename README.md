@@ -25,3 +25,75 @@ This pattern is continued throughout the file.
 - ...
 - DeliveryN_Latitude DeliveryN_Longitude: item to be delivered 
 
+# Sample Output
+This output uses the two sample data files.
+
+```
+Proceed northwest on South Barrington Avenue for 0.44 miles
+Turn left on Santa Monica Boulevard
+Proceed southwest on Santa Monica Boulevard for 0.05 miles
+Turn right on Stoner Avenue
+Proceed northwest on Stoner Avenue for 0.04 miles
+Turn left on Santa Monica Boulevard
+Proceed southwest on Santa Monica Boulevard for 0.40 miles
+Turn right on South Bundy Drive
+Proceed northwest on South Bundy Drive for 0.04 miles
+Turn left on Rochester Avenue
+Proceed southwest on Rochester Avenue for 0.05 miles
+Turn right on South Bundy Drive
+Proceed northwest on South Bundy Drive for 0.04 miles
+Turn left on Texas Avenue
+Proceed southwest on Texas Avenue for 0.10 miles
+Turn right on South Bundy Drive
+Proceed northwest on South Bundy Drive for 0.11 miles
+DELIVER Pabst Blue Ribbon beer (Beta Theta Pi)
+Proceed northeast on Wilshire Boulevard for 1.65 miles
+Turn left on Gayley Avenue
+Proceed north on Gayley Avenue for 0.07 miles
+Turn right on Lindbrook Drive
+Proceed east on Lindbrook Drive for 0.23 miles
+Turn left on Hilgard Avenue
+Proceed northeast on Hilgard Avenue for 0.67 miles
+Turn right on Westholme Avenue
+Proceed east on Westholme Avenue for 0.04 miles
+Turn left on Thayer Avenue
+Proceed northeast on Thayer Avenue for 0.13 miles
+Turn left on Loring Avenue
+Proceed east on Loring Avenue for 0.19 miles
+DELIVER Chicken tenders (Sproul Landing)
+Proceed southwest on Loring Avenue for 0.07 miles
+Turn left on Warner Avenue
+Proceed southeast on Warner Avenue for 0.34 miles
+Turn right on Lindbrook Drive
+Proceed southwest on Lindbrook Drive for 0.19 miles
+Turn left on Westholme Avenue
+Proceed southeast on Westholme Avenue for 0.61 miles
+Turn right on Eastborne Avenue
+Proceed southwest on Eastborne Avenue for 0.14 miles
+Turn left on Manning Avenue
+Proceed southeast on Manning Avenue for 0.23 miles
+Turn right on Santa Monica Boulevard
+Proceed southwest on Santa Monica Boulevard for 0.23 miles
+Turn left on Selby Avenue
+Proceed southeast on Selby Avenue for 0.08 miles
+Turn right on Missouri Avenue
+Proceed southwest on Missouri Avenue for 0.12 miles
+Turn left on Glendon Avenue
+Proceed southeast on Glendon Avenue for 0.13 miles
+Turn right on La Grange Avenue
+Proceed southwest on La Grange Avenue for 0.06 miles
+Turn left on Westwood Boulevard
+Proceed southeast on Westwood Boulevard for 0.18 miles
+DELIVER B-Plate salmon (Eng IV)
+Proceed northwest on Midvale Avenue for 0.39 miles
+Proceed northwest on Kelton Avenue for 0.03 miles
+Turn left on Santa Monica Boulevard
+Proceed west on Santa Monica Boulevard for 0.51 miles
+Turn left on Beloit Avenue
+Proceed southeast on Beloit Avenue for 0.08 miles
+Turn right on Iowa Avenue
+Proceed west on Iowa Avenue for 0.46 miles
+Proceed southwest on Nebraska Avenue for 0.22 miles
+You are back at the depot and your deliveries are done!
+8.23 miles travelled for all deliveries.
+```
