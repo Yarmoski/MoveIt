@@ -4,6 +4,7 @@
 #include <vector>
 #include <list>
 
+//custom implementation of an open hash map
 
 template <typename KeyType, typename ValueType>
 class ExpandableHashMap
