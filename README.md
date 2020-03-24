@@ -8,7 +8,8 @@ The program takes in two text (.txt) files, one of street segments (OSM data) an
 
 ## Data File (.txt) formatting
 
-Sample data files are provided in this repository.
+Sample data files are provided in this repository. These files contain street and delivery data from the UCLA area.
+
 mapdata.txt is a street map data file and deliveries.txt is a deliveries data file. 
 
 ### Street Map Data File
